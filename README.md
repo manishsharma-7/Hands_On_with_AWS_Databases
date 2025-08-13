@@ -54,7 +54,7 @@ The most interesting part of their job is solving complex data challenges and en
 
 ---
 
-*All project files are stored in the `resource` folder for easy navigation.*
+*All project files are stored in the `documents` folder.*
 
 ---
 
