@@ -106,5 +106,3 @@ This data source differs from my initial one because it is not publicly accessib
 ![Image](http://learn.nextwork.org/elated_cyan_peaceful_duck/uploads/aws-databases-rds_1709b30b)
 
 ---
-
----

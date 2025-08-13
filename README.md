@@ -27,11 +27,11 @@ In this AWS Databases series, I’m learning about building and connecting datab
 
 ---
 
-## The Five Epic Projects in This Series:
+## The Five Projects in This Series:
 
 ---
 
-Feel free to explore each project in sequence to build your skills progressively!
+Feel free to explore each project in sequence!
 
 1️⃣ [Visualize a Relational Database](./documents/legendary-aws-databases-rds.md)  
 2️⃣ [Aurora Database with EC2](./documents/legendary-aws-databases-aurora.md)  
